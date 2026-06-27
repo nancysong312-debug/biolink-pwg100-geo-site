@@ -1,7 +1,8 @@
 {
+  "site": "biolink-pwg100-geo-site",
   "pages": [
-    {"id": "homepage", "path": "/pages/core/homepage.html", "type": "core"},
-    {"id": "pwg100", "path": "/pages/core/pwg100.html", "type": "core"},
-    {"id": "applications", "path": "/pages/applications/index.html", "type": "application"}
+    "homepage",
+    "pwg100",
+    "applications/index"
   ]
 }
