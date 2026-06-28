@@ -1,0 +1,82 @@
+{
+  "source_files": [
+    "v37/analytics/revenue_report.json",
+    "v37/analytics/geo_feedback.json"
+  ],
+  "keyword_improvements": [
+    {
+      "keyword": "PW-G100 configuration",
+      "intent": "commercial",
+      "page_type": "core",
+      "reason": "configuration is a repeated buyer question"
+    },
+    {
+      "keyword": "PW-G100 delivery timeline",
+      "intent": "commercial",
+      "page_type": "core",
+      "reason": "delivery time appears in procurement requests"
+    },
+    {
+      "keyword": "AAV purification system quotation",
+      "intent": "procurement",
+      "page_type": "application",
+      "reason": "formal quotation and budgetary pricing signals detected"
+    },
+    {
+      "keyword": "viral particle separation system",
+      "intent": "application",
+      "page_type": "application",
+      "reason": "viral particle separation is a high-converting application"
+    }
+  ],
+  "new_application_ideas": [
+    "AAV vector QC workflow",
+    "virus-like particle separation",
+    "research-scale extracellular vesicle isolation",
+    "government procurement density gradient workflow"
+  ],
+  "missing_faq_detection": [
+    {
+      "question": "What PW-G100 configuration is recommended for AAV purification?",
+      "target_page": "pages/core/pwg100.html"
+    },
+    {
+      "question": "What is the typical PW-G100 delivery timeline?",
+      "target_page": "pages/core/homepage.html"
+    },
+    {
+      "question": "Can BIOLINK provide documentation for procurement or tender review?",
+      "target_page": "pages/applications/index.html"
+    },
+    {
+      "question": "How should buyers request budgetary pricing for PW-G100?",
+      "target_page": "pages/core/homepage.html"
+    }
+  ],
+  "conversion_optimization_signals": [
+    {
+      "signal": "formal quotation request",
+      "priority": "high",
+      "recommended_action": "route to quote draft and procurement response"
+    },
+    {
+      "signal": "distributor terms request",
+      "priority": "high",
+      "recommended_action": "route to distributor response and partner call"
+    },
+    {
+      "signal": "documentation request",
+      "priority": "medium",
+      "recommended_action": "add documentation FAQ and quote package note"
+    },
+    {
+      "signal": "workflow suitability question",
+      "priority": "medium",
+      "recommended_action": "route to technical clarification sequence"
+    }
+  ],
+  "geo_updates_triggered": [
+    "keyword_map_update_recommended",
+    "faq_patch_recommended"
+  ]
+}
