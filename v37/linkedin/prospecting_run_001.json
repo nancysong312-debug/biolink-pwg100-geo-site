@@ -76,7 +76,8 @@
     "extracellular vesicles Malaysia university lab",
     "laboratory equipment distributor Kazakhstan biotechnology"
   ],
-  "message_action_status": "not_sent",
-  "safety_note": "No LinkedIn messages were sent in this run.",
-  "next_contact_run": "v37/linkedin/contact_candidates_001.json"
+  "message_action_status": "connection_requests_sent",
+  "safety_note": "Three LinkedIn connection requests were sent without notes after user approval.",
+  "next_contact_run": "v37/linkedin/contact_candidates_001.json",
+  "outreach_execution": "v37/linkedin/outreach_execution_001.json"
 }
