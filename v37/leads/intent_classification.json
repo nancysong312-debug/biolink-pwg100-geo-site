@@ -1,1 +1,34 @@
-{"classifications":[]}
+{
+  "classifications": [
+    {
+      "lead_id": "lead_lab_001",
+      "stage": "Procurement stage",
+      "intent_score": 86,
+      "reason": "Requests configuration, delivery time, and budgetary pricing."
+    },
+    {
+      "lead_id": "lead_dist_002",
+      "stage": "Comparison stage",
+      "intent_score": 82,
+      "reason": "Distributor evaluates representation terms and demo options."
+    },
+    {
+      "lead_id": "lead_uni_003",
+      "stage": "Research stage",
+      "intent_score": 61,
+      "reason": "Researcher asks workflow suitability and comparison."
+    },
+    {
+      "lead_id": "lead_biotech_004",
+      "stage": "Procurement stage",
+      "intent_score": 91,
+      "reason": "Requests formal quotation, modules, warranty, and documentation."
+    },
+    {
+      "lead_id": "lead_gov_005",
+      "stage": "Tender stage",
+      "intent_score": 78,
+      "reason": "Government procurement request with compliance and lead-time needs."
+    }
+  ]
+}
