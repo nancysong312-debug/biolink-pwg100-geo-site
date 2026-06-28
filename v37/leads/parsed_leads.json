@@ -1,1 +1,49 @@
-{"leads":[]}
+{
+  "leads": [
+    {
+      "lead_id": "lead_lab_001",
+      "company": "NorthStar Cell Analytics",
+      "country": "United States",
+      "interest": "AAV vector QC workflow; small-batch purification; fraction collection",
+      "product": "PW-G100",
+      "intent_level": "high",
+      "budget_signal": "medium"
+    },
+    {
+      "lead_id": "lead_dist_002",
+      "company": "BioSupply Iberia",
+      "country": "Spain",
+      "interest": "regional distribution; exosome isolation; viral particle separation",
+      "product": "PW-G100",
+      "intent_level": "high",
+      "budget_signal": "high"
+    },
+    {
+      "lead_id": "lead_uni_003",
+      "company": "University of Melbourne",
+      "country": "Australia",
+      "interest": "research-scale extracellular vesicle isolation",
+      "product": "PW-G100",
+      "intent_level": "medium",
+      "budget_signal": "low"
+    },
+    {
+      "lead_id": "lead_biotech_004",
+      "company": "VectorNova Therapeutics",
+      "country": "Germany",
+      "interest": "AAV purification before process scale-up",
+      "product": "PW-G100",
+      "intent_level": "high",
+      "budget_signal": "high"
+    },
+    {
+      "lead_id": "lead_gov_005",
+      "company": "National Biomedical Research Center",
+      "country": "Singapore",
+      "interest": "procurement for VLP and extracellular vesicle separation",
+      "product": "PW-G100",
+      "intent_level": "medium",
+      "budget_signal": "medium"
+    }
+  ]
+}
