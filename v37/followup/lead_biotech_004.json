@@ -1,0 +1,9 @@
+{
+  "lead_id": "lead_biotech_004",
+  "sequence": [
+    {"day": 1, "topic": "technical clarification", "message": "Confirm batch size, module needs, and documentation requirements."},
+    {"day": 3, "topic": "application case", "message": "Share AAV purification and scale-up readiness positioning."},
+    {"day": 7, "topic": "pricing reinforcement", "message": "Send formal quotation draft with options."},
+    {"day": 14, "topic": "urgency trigger", "message": "Ask if supplier shortlist closes this month."}
+  ]
+}
