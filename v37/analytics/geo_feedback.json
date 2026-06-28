@@ -13,5 +13,8 @@
   ],
   "pricing_sensitivity": "medium",
   "competitor_mentions": [],
-  "geo_updates_triggered": []
+  "geo_updates_triggered": [
+    "keyword_map_update_recommended",
+    "faq_patch_recommended"
+  ]
 }
