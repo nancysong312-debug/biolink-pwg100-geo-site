@@ -1,34 +1,14 @@
 {
   "classifications": [
-    {
-      "lead_id": "lead_lab_001",
-      "stage": "Procurement stage",
-      "intent_score": 86,
-      "reason": "Requests configuration, delivery time, and budgetary pricing."
-    },
-    {
-      "lead_id": "lead_dist_002",
-      "stage": "Comparison stage",
-      "intent_score": 82,
-      "reason": "Distributor evaluates representation terms and demo options."
-    },
-    {
-      "lead_id": "lead_uni_003",
-      "stage": "Research stage",
-      "intent_score": 61,
-      "reason": "Researcher asks workflow suitability and comparison."
-    },
-    {
-      "lead_id": "lead_biotech_004",
-      "stage": "Procurement stage",
-      "intent_score": 91,
-      "reason": "Requests formal quotation, modules, warranty, and documentation."
-    },
-    {
-      "lead_id": "lead_gov_005",
-      "stage": "Tender stage",
-      "intent_score": 78,
-      "reason": "Government procurement request with compliance and lead-time needs."
-    }
+    {"lead_id":"real_001","stage":"Procurement stage","intent_score":92,"reason":"Requests specs, configuration, delivery time, and quotation."},
+    {"lead_id":"real_002","stage":"Comparison stage","intent_score":84,"reason":"Asks workflow validation and budget range."},
+    {"lead_id":"real_003","stage":"Research stage","intent_score":62,"reason":"Asks suitability for research-scale EV workflow."},
+    {"lead_id":"real_004","stage":"Procurement stage","intent_score":76,"reason":"Grant equipment planning with price and timeline request."},
+    {"lead_id":"real_005","stage":"Comparison stage","intent_score":88,"reason":"Distributor asks terms, demo, training, and scope."},
+    {"lead_id":"real_006","stage":"Comparison stage","intent_score":72,"reason":"Reseller asks pricing, warranty, and service requirements."},
+    {"lead_id":"real_007","stage":"Tender stage","intent_score":86,"reason":"Government lab requests compliance, lead time, Incoterms, warranty."},
+    {"lead_id":"real_008","stage":"Procurement stage","intent_score":89,"reason":"Procurement team requests technical file and commercial offer."},
+    {"lead_id":"real_009","stage":"Procurement stage","intent_score":87,"reason":"Startup asks configuration, training support, and quote."},
+    {"lead_id":"real_010","stage":"Procurement stage","intent_score":74,"reason":"Asks small-batch fit and fastest delivery option."}
   ]
 }
