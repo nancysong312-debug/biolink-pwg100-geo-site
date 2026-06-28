@@ -1,0 +1,25 @@
+{
+  "run_id": "v3.7-seed-first-execution",
+  "processed_leads": [
+    "lead_lab_001",
+    "lead_dist_002",
+    "lead_uni_003",
+    "lead_biotech_004",
+    "lead_gov_005"
+  ],
+  "generated_responses": 5,
+  "quote_drafts": [
+    "v37/quotes/lead_lab_001.md",
+    "v37/quotes/lead_dist_002.md",
+    "v37/quotes/lead_uni_003.md",
+    "v37/quotes/lead_biotech_004.md",
+    "v37/quotes/lead_gov_005.md"
+  ],
+  "conversion_scoring": [
+    {"lead_id": "lead_lab_001", "score": 86, "signal": "budgetary pricing request"},
+    {"lead_id": "lead_dist_002", "score": 82, "signal": "distributor terms request"},
+    {"lead_id": "lead_uni_003", "score": 61, "signal": "workflow suitability question"},
+    {"lead_id": "lead_biotech_004", "score": 91, "signal": "formal quotation request"},
+    {"lead_id": "lead_gov_005", "score": 78, "signal": "government procurement request"}
+  ]
+}
