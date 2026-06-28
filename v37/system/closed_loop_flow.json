@@ -1,0 +1,1 @@
+{"flow":["traffic","lead_capture","intent_classification","response_generation","quotation","follow_up","conversion","geo_feedback"],"limits":{"max_leads_per_run":10,"max_quotes_per_run":3,"max_responses_per_run":5,"max_competitor_pages_per_run":2}}
