@@ -1,1 +1,8 @@
-{"stream":"linkedin","status":"active","messages":[]}
+{
+  "stream": "linkedin",
+  "status": "active",
+  "mode": "premium_manual_prospecting",
+  "market_focus": "Belt and Road priority countries",
+  "messages": [],
+  "next_action": "collect prospects from LinkedIn search and append interested replies here"
+}
