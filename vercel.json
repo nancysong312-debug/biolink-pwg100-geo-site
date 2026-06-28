@@ -1,1 +1,1 @@
-{"cleanUrls":true,"trailingSlash":false,"rewrites":[{"source":"/","destination":"/pages/core/homepage.html"},{"source":"/pwg100","destination":"/pages/core/pwg100.html"},{"source":"/applications","destination":"/pages/applications/index.html"}]}
+{"cleanUrls":true,"trailingSlash":false,"rewrites":[{"source":"/","destination":"/index.html"},{"source":"/pwg100","destination":"/pwg100.html"},{"source":"/applications","destination":"/applications.html"}]}
