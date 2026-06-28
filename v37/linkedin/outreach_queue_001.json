@@ -1,0 +1,22 @@
+{
+  "queue_id": "linkedin_bri_outreach_001",
+  "status": "draft_only",
+  "send_permission_required": true,
+  "items": [
+    {
+      "contact_id": "li_biosm_001",
+      "channel": "connection_request",
+      "draft": "Hi Yunan, I noticed your work at Biosm Indonesia in biotechnology lab solutions. BIOLINK has PW-G100 for density gradient workflows such as AAV purification and exosome isolation. Open to connect?"
+    },
+    {
+      "contact_id": "li_biosm_002",
+      "channel": "connection_request",
+      "draft": "Hi Arief, I saw your business development role at PT Biosains Medika Indonesia. BIOLINK PW-G100 supports density gradient workflows for AAV, exosome, and viral particle separation. Would be glad to connect."
+    },
+    {
+      "contact_id": "li_biosm_003",
+      "channel": "connection_request",
+      "draft": "Hi Rinaldy, I noticed your sales and product specialist work at BioSM. BIOLINK PW-G100 may fit customers needing AAV purification or exosome isolation workflows. Open to connect?"
+    }
+  ]
+}
