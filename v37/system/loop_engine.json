@@ -1,0 +1,93 @@
+{
+  "status": "active",
+  "mode": "continuous_closed_loop",
+  "cycle_interval": "1 run per commit",
+  "triggers": [
+    "git_push",
+    "new_lead_file"
+  ],
+  "scope": "incremental_updates_only",
+  "cycles": {
+    "ingestion_cycle": {
+      "input_paths": [
+        "v37/leads/seed_leads.json",
+        "v37/leads/parsed_leads.json"
+      ],
+      "max_leads_per_run": 10,
+      "action": "append_new_leads_only"
+    },
+    "processing_cycle": {
+      "steps": [
+        "classify_intent",
+        "score_conversion",
+        "detect_competitor",
+        "detect_missing_faq"
+      ],
+      "action": "process_delta_only"
+    },
+    "output_cycle": {
+      "outputs": [
+        "responses",
+        "quotes",
+        "followup",
+        "run_history"
+      ],
+      "limits": {
+        "max_responses": 5,
+        "max_quotes": 3,
+        "max_competitor_pages": 2
+      }
+    },
+    "feedback_cycle": {
+      "inputs": [
+        "v37/analytics/revenue_report.json",
+        "v37/analytics/geo_feedback.json"
+      ],
+      "outputs": [
+        "v37/system/feedback_insights.json",
+        "seo/keyword_map.csv",
+        "pages/core",
+        "pages/applications"
+      ],
+      "action": "apply_only_validated_insights"
+    }
+  },
+  "auto_regeneration_rules": [
+    {
+      "condition": "high_intent_lead_detected",
+      "actions": [
+        "regenerate_improved_response",
+        "create_or_update_quote",
+        "update_run_history"
+      ]
+    },
+    {
+      "condition": "competitor_mentioned",
+      "actions": [
+        "generate_counter_positioning_page",
+        "update_keyword_map",
+        "update_geo_feedback"
+      ]
+    },
+    {
+      "condition": "missing_faq_detected",
+      "actions": [
+        "patch_relevant_geo_page",
+        "update_sitemap_if_needed",
+        "update_keyword_map"
+      ]
+    },
+    {
+      "condition": "low_conversion_response_detected",
+      "actions": [
+        "regenerate_improved_response",
+        "update_best_response_patterns",
+        "log_conversion_change"
+      ]
+    }
+  ],
+  "deployment": {
+    "push_to_github": true,
+    "trigger_vercel": true
+  }
+}
