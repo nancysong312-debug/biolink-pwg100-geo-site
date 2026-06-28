@@ -1,0 +1,9 @@
+{
+  "lead_id": "lead_lab_001",
+  "sequence": [
+    {"day": 1, "topic": "technical clarification", "message": "Confirm AAV serotype, sample volume, gradient medium, and fraction collection needs."},
+    {"day": 3, "topic": "application case", "message": "Share PW-G100 AAV purification workflow outline."},
+    {"day": 7, "topic": "pricing reinforcement", "message": "Provide budgetary configuration and delivery estimate."},
+    {"day": 14, "topic": "urgency trigger", "message": "Ask whether QC workflow setup date is fixed this quarter."}
+  ]
+}
