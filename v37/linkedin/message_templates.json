@@ -1,0 +1,16 @@
+{
+  "connection_request": {
+    "distributor": "Hi {{first_name}}, I noticed your work in life science instruments in {{country}}. BIOLINK has PW-G100 for density gradient workflows such as AAV purification and exosome isolation. Open to connect?",
+    "biotech_company": "Hi {{first_name}}, I saw your work around {{application}}. BIOLINK PW-G100 supports density gradient separation for AAV, viral particles, and exosomes. Would be glad to connect.",
+    "university_lab": "Hi {{first_name}}, I noticed your research in {{application}}. We work on PW-G100 density gradient workflows for EV/exosome and viral particle separation. Happy to connect.",
+    "government_lab": "Hi {{first_name}}, I saw your biomedical research background. BIOLINK PW-G100 supports density gradient separation workflows for VLPs, EVs, and AAV. Open to connect?"
+  },
+  "inmail": {
+    "subject": "PW-G100 density gradient workflow for {{application}}",
+    "body": "Hi {{first_name}}, BIOLINK PW-G100 is designed for density gradient workflows including {{application}}. For teams in {{country}}, we can provide technical configuration, delivery timeline, and quotation options. Would it be useful if I send a short workflow note and configuration outline?"
+  },
+  "reply_after_interest": {
+    "technical": "Technically, PW-G100 can support {{application}} by structuring the density gradient workflow, sample loading, controlled separation, and fraction recovery. To recommend configuration, we need sample type, volume, target purity, and downstream analytics.",
+    "commercial": "Commercially, we can prepare a quotation with PW-G100 core system, optional workflow modules, delivery timeline, Incoterms, warranty, and training options. Preferred terms can be FOB, CIF, or DAP."
+  }
+}
