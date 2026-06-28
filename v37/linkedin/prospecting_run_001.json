@@ -77,5 +77,6 @@
     "laboratory equipment distributor Kazakhstan biotechnology"
   ],
   "message_action_status": "not_sent",
-  "safety_note": "No LinkedIn messages were sent in this run."
+  "safety_note": "No LinkedIn messages were sent in this run.",
+  "next_contact_run": "v37/linkedin/contact_candidates_001.json"
 }
