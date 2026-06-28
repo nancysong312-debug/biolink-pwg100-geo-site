@@ -1,1 +1,17 @@
-{"most_requested_applications":[],"most_asked_questions":[],"pricing_sensitivity":"unknown","competitor_mentions":[],"geo_updates_triggered":[]}
+{
+  "most_requested_applications": [
+    "AAV purification",
+    "exosome isolation",
+    "viral particle separation"
+  ],
+  "most_asked_questions": [
+    "configuration",
+    "delivery timeline",
+    "budgetary pricing",
+    "documentation",
+    "workflow suitability"
+  ],
+  "pricing_sensitivity": "medium",
+  "competitor_mentions": [],
+  "geo_updates_triggered": []
+}
