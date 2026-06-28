@@ -1,0 +1,54 @@
+{
+  "leads": [
+    {
+      "lead_id": "lead_lab_001",
+      "type": "laboratory_buyer",
+      "company": "NorthStar Cell Analytics",
+      "country": "United States",
+      "inquiry_text": "We are setting up an AAV vector QC workflow and need a density gradient system for small-batch purification and fraction collection. Please share PW-G100 configuration, delivery time, and budgetary pricing.",
+      "interest_level": "high",
+      "product": "PW-G100",
+      "application": "AAV purification"
+    },
+    {
+      "lead_id": "lead_dist_002",
+      "type": "distributor",
+      "company": "BioSupply Iberia",
+      "country": "Spain",
+      "inquiry_text": "We distribute life science instruments in Spain and Portugal. We are interested in representing PW-G100 for exosome isolation and viral particle separation customers. Please send distributor terms and demo unit options.",
+      "interest_level": "high",
+      "product": "PW-G100",
+      "application": "exosome isolation"
+    },
+    {
+      "lead_id": "lead_uni_003",
+      "type": "university_researcher",
+      "company": "University of Melbourne",
+      "country": "Australia",
+      "inquiry_text": "Our lab studies extracellular vesicles from cell culture media. We want to compare density gradient workflows with ultracentrifugation. Could PW-G100 support exosome isolation for research-scale samples?",
+      "interest_level": "medium",
+      "product": "PW-G100",
+      "application": "exosome isolation"
+    },
+    {
+      "lead_id": "lead_biotech_004",
+      "type": "biotech_company",
+      "company": "VectorNova Therapeutics",
+      "country": "Germany",
+      "inquiry_text": "We are evaluating systems for AAV purification before process scale-up. Need technical specifications, GMP-adjacent documentation, warranty, and a formal quotation for PW-G100 with modules.",
+      "interest_level": "high",
+      "product": "PW-G100",
+      "application": "viral particle separation"
+    },
+    {
+      "lead_id": "lead_gov_005",
+      "type": "government_lab",
+      "company": "National Biomedical Research Center",
+      "country": "Singapore",
+      "inquiry_text": "We are preparing a government procurement request for a density gradient separation system for virus-like particles and extracellular vesicles. Please provide compliance documents and estimated lead time.",
+      "interest_level": "medium",
+      "product": "PW-G100",
+      "application": "viral particle separation"
+    }
+  ]
+}
