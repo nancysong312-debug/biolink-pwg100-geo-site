@@ -1,0 +1,36 @@
+{
+  "execution_id": "linkedin_bri_send_001",
+  "date": "2026-06-28",
+  "channel": "LinkedIn",
+  "account_type": "LinkedIn Premium",
+  "market_focus": "Indonesia distributor contacts",
+  "send_mode": "connection_request_without_note",
+  "reason_note_not_used": "LinkedIn note textarea did not accept automated input reliably; requests were sent without note to avoid failed or partial content.",
+  "results": [
+    {
+      "contact_id": "li_biosm_001",
+      "name": "Yunan Nursyahbani Mubin",
+      "profile_url": "https://www.linkedin.com/in/yunan-nursyahbani-mubin-83783778/",
+      "company": "Biosm Indonesia - Biotechnology Solution",
+      "status": "sent",
+      "linkedin_state": "Pending"
+    },
+    {
+      "contact_id": "li_biosm_002",
+      "name": "Arief MSi",
+      "profile_url": "https://www.linkedin.com/in/ariefmsi/",
+      "company": "PT Biosains Medika Indonesia",
+      "status": "sent",
+      "linkedin_state": "Pending"
+    },
+    {
+      "contact_id": "li_biosm_003",
+      "name": "Rinaldy AH",
+      "profile_url": "https://www.linkedin.com/in/rinaldy-ah-295a75a4/",
+      "company": "PT. Biosains Medika Indonesia (BioSM)",
+      "status": "sent",
+      "linkedin_state": "Pending"
+    }
+  ],
+  "next_step": "monitor_acceptance_before_followup_message"
+}
