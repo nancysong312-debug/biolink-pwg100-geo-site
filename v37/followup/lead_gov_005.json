@@ -1,0 +1,9 @@
+{
+  "lead_id": "lead_gov_005",
+  "sequence": [
+    {"day": 1, "topic": "technical clarification", "message": "Request tender checklist and compliance document format."},
+    {"day": 3, "topic": "application case", "message": "Share VLP and EV density gradient application scope."},
+    {"day": 7, "topic": "pricing reinforcement", "message": "Provide procurement-ready quote package."},
+    {"day": 14, "topic": "urgency trigger", "message": "Confirm tender submission deadline and Incoterms."}
+  ]
+}
