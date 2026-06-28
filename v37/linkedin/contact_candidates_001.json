@@ -1,0 +1,123 @@
+{
+  "run_id": "linkedin_bri_contacts_001",
+  "date": "2026-06-28",
+  "source": "LinkedIn visible search results",
+  "message_status": "not_sent",
+  "contacts": [
+    {
+      "contact_id": "li_biosm_001",
+      "name": "Yunan Nursyahbani Mubin",
+      "company": "Biosm Indonesia - Biotechnology Solution",
+      "country": "Indonesia",
+      "title": "National Sales Manager",
+      "connection_degree": "3rd+",
+      "segment": "distributor",
+      "priority": "high",
+      "reason": "current national sales role at target biotechnology distributor"
+    },
+    {
+      "contact_id": "li_biosm_002",
+      "name": "Arief MSi",
+      "company": "PT Biosains Medika Indonesia",
+      "country": "Indonesia",
+      "title": "Business Development Manager",
+      "connection_degree": "3rd+",
+      "segment": "distributor",
+      "priority": "high",
+      "reason": "current business development role at Biosm-related company"
+    },
+    {
+      "contact_id": "li_biosm_003",
+      "name": "Rinaldy AH",
+      "company": "PT. Biosains Medika Indonesia (BioSM)",
+      "country": "Indonesia",
+      "title": "Sales & Product Specialist",
+      "connection_degree": "3rd+",
+      "segment": "distributor",
+      "priority": "medium",
+      "reason": "sales and product specialist fit for PW-G100 application discussion"
+    },
+    {
+      "contact_id": "li_biosm_004",
+      "name": "rahma micho",
+      "company": "BioSM Indonesia",
+      "country": "Indonesia",
+      "title": "Area Sales Specialist",
+      "connection_degree": "3rd+",
+      "segment": "distributor",
+      "priority": "medium",
+      "reason": "area sales role may route to product or business development owner"
+    },
+    {
+      "contact_id": "li_biosm_005",
+      "name": "Putra Aulia",
+      "company": "Biosm Indonesia - Biotechnology Solution",
+      "country": "Indonesia",
+      "title": "Turn-key Project Manager",
+      "connection_degree": "3rd+",
+      "segment": "distributor",
+      "priority": "medium",
+      "reason": "project role may handle installation or complex lab equipment projects"
+    },
+    {
+      "contact_id": "li_elo_001",
+      "name": "Anniza Nurrahmah",
+      "company": "PT. Elo Karsa Utama",
+      "country": "Indonesia",
+      "title": "Assistant Manager Business Development; past Product Specialist",
+      "connection_degree": "3rd+",
+      "segment": "distributor",
+      "priority": "medium",
+      "reason": "life sciences business development and product management background"
+    },
+    {
+      "contact_id": "li_elo_002",
+      "name": "Bramassetyo Aji",
+      "company": "PT Elo Karsa Utama",
+      "country": "Indonesia",
+      "title": "Head of Biopharmaceutical Quality Control; past Product Specialist",
+      "connection_degree": "3rd+",
+      "segment": "biotech_company",
+      "priority": "medium",
+      "reason": "biopharmaceutical QC buyer relevance; past distributor product specialist experience"
+    },
+    {
+      "contact_id": "li_elo_003",
+      "name": "Felya Evelina",
+      "company": "PT Elo Karsa Utama",
+      "country": "Indonesia",
+      "title": "Past Sales Executive of Life Science",
+      "connection_degree": "3rd+",
+      "segment": "distributor",
+      "priority": "low",
+      "reason": "life science sales background; past company role"
+    },
+    {
+      "contact_id": "li_elo_004",
+      "name": "Yoga Dwa Pratama",
+      "company": "PT Elo Karsa Utama",
+      "country": "Indonesia",
+      "title": "Past Senior Sales Executive",
+      "connection_degree": "3rd+",
+      "segment": "distributor",
+      "priority": "low",
+      "reason": "sales background; past company role"
+    },
+    {
+      "contact_id": "li_elo_005",
+      "name": "Nur Fathurahman Ridwan",
+      "company": "PT Elo Karsa Utama",
+      "country": "Indonesia",
+      "title": "Past Product and Application Specialist",
+      "connection_degree": "3rd+",
+      "segment": "application_specialist",
+      "priority": "low",
+      "reason": "application specialist background may help identify relevant product owner"
+    }
+  ],
+  "recommended_first_targets": [
+    "li_biosm_001",
+    "li_biosm_002",
+    "li_biosm_003"
+  ]
+}
