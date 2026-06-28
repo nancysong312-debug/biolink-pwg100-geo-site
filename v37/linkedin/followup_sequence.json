@@ -1,0 +1,30 @@
+{
+  "sequence": [
+    {
+      "day": 1,
+      "type": "connection_or_inmail",
+      "goal": "open conversation"
+    },
+    {
+      "day": 3,
+      "type": "technical_value",
+      "goal": "share application fit and ask sample/workflow question"
+    },
+    {
+      "day": 7,
+      "type": "commercial_signal",
+      "goal": "offer configuration and quotation outline"
+    },
+    {
+      "day": 14,
+      "type": "decision_trigger",
+      "goal": "ask about project timeline, tender, distributor interest, or purchase window"
+    }
+  ],
+  "stop_rules": [
+    "stop if prospect declines",
+    "stop after 3 unanswered follow-ups",
+    "do not automate mass messaging",
+    "move interested lead into v37/input/linkedin_messages.json"
+  ]
+}
