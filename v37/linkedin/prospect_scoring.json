@@ -1,0 +1,29 @@
+{
+  "scoring_rules": [
+    {
+      "signal": "distributor with life science instruments",
+      "score": 30
+    },
+    {
+      "signal": "biotechnology or biopharmaceutical customer base",
+      "score": 25
+    },
+    {
+      "signal": "AAV, exosome, EV, viral particle, or gene therapy relevance",
+      "score": 25
+    },
+    {
+      "signal": "decision-maker title",
+      "score": 15
+    },
+    {
+      "signal": "recent LinkedIn activity",
+      "score": 5
+    }
+  ],
+  "qualification_thresholds": {
+    "high": 75,
+    "medium": 50,
+    "low": 25
+  }
+}
