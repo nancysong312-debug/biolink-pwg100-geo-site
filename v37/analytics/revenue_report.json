@@ -1,8 +1,8 @@
 {
   "run_id": "v3.7-initial",
-  "leads_processed": 5,
-  "responses_generated": 5,
-  "quotes_created": 5,
+  "leads_processed": 10,
+  "responses_generated": 10,
+  "quotes_created": 10,
   "conversion_signals": [
     "budgetary pricing request",
     "distributor terms request",
@@ -19,5 +19,5 @@
     "viral particle separation",
     "exosome isolation"
   ],
-  "notes": "Seed leads initialized to activate the closed loop."
+  "notes": "Realistic input stream activated with 10 inbound leads."
 }
