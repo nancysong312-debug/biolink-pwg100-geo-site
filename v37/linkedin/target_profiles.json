@@ -1,0 +1,46 @@
+{
+  "version": "v3.7.2-linkedin-premium",
+  "market_focus": "Belt and Road priority countries",
+  "priority_countries": [
+    "Indonesia",
+    "Malaysia",
+    "Thailand",
+    "Vietnam",
+    "Pakistan",
+    "Saudi Arabia",
+    "United Arab Emirates",
+    "Qatar",
+    "Kazakhstan",
+    "Uzbekistan",
+    "Turkey",
+    "Egypt"
+  ],
+  "buyer_profiles": [
+    {
+      "segment": "biotech_company",
+      "titles": ["Process Development Scientist", "Head of Gene Therapy", "VP Manufacturing", "CTO"],
+      "applications": ["AAV purification", "viral particle separation"]
+    },
+    {
+      "segment": "university_lab",
+      "titles": ["Principal Investigator", "Core Facility Manager", "Research Scientist"],
+      "applications": ["exosome isolation", "extracellular vesicle isolation"]
+    },
+    {
+      "segment": "distributor",
+      "titles": ["Business Development Manager", "Product Manager", "Managing Director"],
+      "applications": ["life science instrument distribution", "bioprocess equipment"]
+    },
+    {
+      "segment": "government_lab",
+      "titles": ["Laboratory Director", "Procurement Manager", "Senior Scientist"],
+      "applications": ["virus-like particle separation", "biomedical research"]
+    }
+  ],
+  "priority_order": [
+    "distributor",
+    "biotech_company",
+    "government_lab",
+    "university_lab"
+  ]
+}
