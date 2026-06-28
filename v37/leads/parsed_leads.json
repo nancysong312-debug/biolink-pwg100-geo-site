@@ -1,49 +1,14 @@
 {
   "leads": [
-    {
-      "lead_id": "lead_lab_001",
-      "company": "NorthStar Cell Analytics",
-      "country": "United States",
-      "interest": "AAV vector QC workflow; small-batch purification; fraction collection",
-      "product": "PW-G100",
-      "intent_level": "high",
-      "budget_signal": "medium"
-    },
-    {
-      "lead_id": "lead_dist_002",
-      "company": "BioSupply Iberia",
-      "country": "Spain",
-      "interest": "regional distribution; exosome isolation; viral particle separation",
-      "product": "PW-G100",
-      "intent_level": "high",
-      "budget_signal": "high"
-    },
-    {
-      "lead_id": "lead_uni_003",
-      "company": "University of Melbourne",
-      "country": "Australia",
-      "interest": "research-scale extracellular vesicle isolation",
-      "product": "PW-G100",
-      "intent_level": "medium",
-      "budget_signal": "low"
-    },
-    {
-      "lead_id": "lead_biotech_004",
-      "company": "VectorNova Therapeutics",
-      "country": "Germany",
-      "interest": "AAV purification before process scale-up",
-      "product": "PW-G100",
-      "intent_level": "high",
-      "budget_signal": "high"
-    },
-    {
-      "lead_id": "lead_gov_005",
-      "company": "National Biomedical Research Center",
-      "country": "Singapore",
-      "interest": "procurement for VLP and extracellular vesicle separation",
-      "product": "PW-G100",
-      "intent_level": "medium",
-      "budget_signal": "medium"
-    }
+    {"lead_id":"real_001","company":"HelixVector Bio","country":"United States","interest":"AAV purification; process development; formal quotation","product":"PW-G100","intent_level":"high","budget_signal":"high"},
+    {"lead_id":"real_002","company":"NovaCapsid Therapeutics","country":"United States","interest":"viral particle separation; QC fraction collection","product":"PW-G100","intent_level":"high","budget_signal":"medium"},
+    {"lead_id":"real_003","company":"Karolinska Institute EV Core","country":"Sweden","interest":"research-scale exosome isolation","product":"PW-G100","intent_level":"medium","budget_signal":"low"},
+    {"lead_id":"real_004","company":"University of Milan Gene Therapy Lab","country":"Italy","interest":"AAV purification; grant procurement planning","product":"PW-G100","intent_level":"medium","budget_signal":"medium"},
+    {"lead_id":"real_005","company":"Aarav LifeScience Solutions","country":"India","interest":"distributor terms; demo unit; training","product":"PW-G100","intent_level":"high","budget_signal":"high"},
+    {"lead_id":"real_006","company":"GenEquip India Pvt Ltd","country":"India","interest":"reseller pricing; warranty; service requirements","product":"PW-G100","intent_level":"medium","budget_signal":"high"},
+    {"lead_id":"real_007","company":"Qatar Biomedical Research Institute","country":"Qatar","interest":"VLP research; compliance documents; Incoterms","product":"PW-G100","intent_level":"high","budget_signal":"medium"},
+    {"lead_id":"real_008","company":"King Abdullah Medical Research Center","country":"Saudi Arabia","interest":"EV and viral particle separation; commercial offer","product":"PW-G100","intent_level":"high","budget_signal":"high"},
+    {"lead_id":"real_009","company":"Shanghai ViroNova Biotech","country":"China","interest":"AAV purification; training support; quote","product":"PW-G100","intent_level":"high","budget_signal":"medium"},
+    {"lead_id":"real_010","company":"Shenzhen ExoBridge Bio","country":"China","interest":"exosome isolation; small batches; fastest delivery","product":"PW-G100","intent_level":"medium","budget_signal":"medium"}
   ]
 }
