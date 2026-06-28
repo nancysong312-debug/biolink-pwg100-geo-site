@@ -1,0 +1,41 @@
+{
+  "search_queries": [
+    {
+      "query_id": "bri_distributor_001",
+      "linkedin_query": "\"life science distributor\" \"bioprocess\" Indonesia OR Malaysia OR Thailand OR Vietnam",
+      "target": "distributor"
+    },
+    {
+      "query_id": "bri_distributor_002",
+      "linkedin_query": "\"laboratory equipment distributor\" \"biotechnology\" Saudi Arabia OR UAE OR Qatar",
+      "target": "distributor"
+    },
+    {
+      "query_id": "bri_aav_001",
+      "linkedin_query": "\"AAV\" \"process development\" \"gene therapy\" Saudi Arabia OR UAE OR Turkey",
+      "target": "biotech_company"
+    },
+    {
+      "query_id": "bri_exosome_001",
+      "linkedin_query": "\"exosome isolation\" \"extracellular vesicles\" Indonesia OR Malaysia OR Thailand",
+      "target": "university_lab"
+    },
+    {
+      "query_id": "bri_govlab_001",
+      "linkedin_query": "\"biomedical research\" \"government lab\" Qatar OR Saudi Arabia OR Egypt",
+      "target": "government_lab"
+    },
+    {
+      "query_id": "bri_central_asia_001",
+      "linkedin_query": "\"biotechnology\" \"laboratory equipment\" Kazakhstan OR Uzbekistan",
+      "target": "distributor"
+    }
+  ],
+  "manual_filter_rules": [
+    "prefer recent activity within 90 days",
+    "prefer decision-maker titles",
+    "prefer companies with life science instruments, gene therapy, EV, or bioprocess terms",
+    "avoid students unless lab manager or core facility role",
+    "do not message more than 20 prospects per day"
+  ]
+}
