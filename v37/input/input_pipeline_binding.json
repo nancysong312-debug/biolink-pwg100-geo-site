@@ -1,0 +1,10 @@
+{
+  "input": "v37/input/lead_inbox.json",
+  "lead_parser": "v37/leads/parsed_leads.json",
+  "intent_classifier": "v37/leads/intent_classification.json",
+  "response_engine": "v37/sales/responses",
+  "quotation_engine": "v37/quotes",
+  "followup_engine": "v37/followup",
+  "feedback_loop": "v37/analytics/geo_feedback.json",
+  "mode": "incremental"
+}
