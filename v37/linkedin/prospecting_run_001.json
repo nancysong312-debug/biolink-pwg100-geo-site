@@ -1,0 +1,81 @@
+{
+  "run_id": "linkedin_bri_001",
+  "date": "2026-06-28",
+  "account_type": "LinkedIn Premium",
+  "market_focus": "Belt and Road priority countries",
+  "status": "search_validated",
+  "searches_executed": [
+    {
+      "query": "life science distributor bioprocess Indonesia Malaysia Thailand Vietnam",
+      "result": "too narrow; no useful people results"
+    },
+    {
+      "query": "laboratory equipment distributor Indonesia biotechnology",
+      "result": "valid company results"
+    },
+    {
+      "query": "biomedical research laboratory equipment distributor Saudi Arabia Qatar UAE biotechnology",
+      "result": "valid regional distributor and lab-supply results"
+    }
+  ],
+  "candidate_companies": [
+    {
+      "company": "Biosm Indonesia - Biotechnology Solution",
+      "country": "Indonesia",
+      "segment": "distributor",
+      "fit": "high",
+      "reason": "biotechnology laboratory supplies, lab equipment, hospitals, universities, research institutions, biopharmaceuticals"
+    },
+    {
+      "company": "PT Elo Karsa Utama",
+      "country": "Indonesia",
+      "segment": "distributor",
+      "fit": "high",
+      "reason": "life science, biotechnology and medical solution provider in Indonesia"
+    },
+    {
+      "company": "Ant Teknik",
+      "country": "Turkey",
+      "segment": "distributor",
+      "fit": "medium",
+      "reason": "laboratory equipment, automation, cleanroom and contamination control technologies"
+    },
+    {
+      "company": "Labtech",
+      "country": "Tunisia",
+      "segment": "distributor",
+      "fit": "medium",
+      "reason": "sales and after-sales service for laboratory and process equipment"
+    },
+    {
+      "company": "Technoscient",
+      "country": "Egypt",
+      "segment": "distributor",
+      "fit": "medium",
+      "reason": "laboratory appliances and analytical equipment"
+    },
+    {
+      "company": "LABTECH Laboratory & Technical Supply Co",
+      "country": "Pakistan",
+      "segment": "distributor",
+      "fit": "medium",
+      "reason": "laboratory scientific, biomedical and diagnostic equipment supplier"
+    },
+    {
+      "company": "TeknolabUSA",
+      "country": "United States / Middle East",
+      "segment": "regional distributor",
+      "fit": "medium",
+      "reason": "biomedical and laboratory equipment distributor with Middle East coverage"
+    }
+  ],
+  "recommended_next_searches": [
+    "Biosm Indonesia product manager biotechnology",
+    "PT Elo Karsa Utama business development life science",
+    "AAV gene therapy Saudi Arabia biotech",
+    "extracellular vesicles Malaysia university lab",
+    "laboratory equipment distributor Kazakhstan biotechnology"
+  ],
+  "message_action_status": "not_sent",
+  "safety_note": "No LinkedIn messages were sent in this run."
+}
