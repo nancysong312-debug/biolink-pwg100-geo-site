@@ -1,0 +1,22 @@
+{
+  "run_id": "geo_iteration_2026_07_01",
+  "date": "2026-07-01",
+  "mode": "incremental_geo_feedback_patch",
+  "source": "v37/system/feedback_insights.json",
+  "pages_patched": [
+    "pages/core/homepage.html",
+    "pages/core/pwg100.html",
+    "pages/applications/index.html",
+    "index.html",
+    "pwg100.html",
+    "applications.html"
+  ],
+  "faq_updates": [
+    "PW-G100 delivery timeline",
+    "budgetary pricing request inputs",
+    "AAV purification configuration",
+    "procurement documentation"
+  ],
+  "keyword_map_status": "already_updated",
+  "deployment_scope": "content_only"
+}
